@@ -1,0 +1,27 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.background-imagens {
+    background-color: black;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #9353FF;
+    border: none;
+    border-radius: 0;
+}
+
+.color-neon {
+    color: #DAFF01;
+}
+
+form {
+    width: 50%;
+    margin: 0 auto;
+}
